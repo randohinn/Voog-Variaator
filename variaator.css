@@ -1,0 +1,42 @@
+.variant-toggle {
+  height: 48px;
+  line-height: 45px;
+  margin: 2px;
+  border: 2px solid #222;
+  display: inline-block;
+  float: left;
+  min-width: 82px;
+  text-align: center;
+  font-weight: bold;
+  transition: all .2s ease-in-out;
+}
+
+.variant-toggle:hover {
+  color: #F66E00;
+  border-color: #F66E00;
+  cursor: pointer;
+}
+
+.variant-toggle.active{
+  color: #F66E00;
+  border-color: #F66E00;
+}
+
+.inert {
+  cursor: default !important;
+  color: #999 !important;
+  border-color: #999 !important;
+}
+
+
+.edy-buy-button-container .form_field {
+  margin-top: 0px;
+}
+
+.no-leftmargin {
+  margin-left: 0px;
+}
+
+.container-var {
+  padding-left: 0px;
+}
