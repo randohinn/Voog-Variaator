@@ -3,6 +3,14 @@
 
 Voog-Variaator is a simple drop-in solution for prettying [Voog](https://voog.com) E-Commerce product variation select boxes.
 
+Turns this
+
+![Without script](http://imgur.com/4RggEVv.png)
+
+Into this
+
+![With script](http://imgur.com/nrRcwVg.png)
+
 ## Usage
 
 * Download the script and upload it to your scripts folder in the editor. Include the script on your product page templates, where the buy button lives.
